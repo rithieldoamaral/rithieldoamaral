@@ -1,4 +1,4 @@
-## Olá sou Rithiel, data analyst atuante e entusiasta de análise de sados e projeções de cenários 👋
+## Olá sou Rithiel, data analyst atuante e entusiasta de análise de dados e projeções de cenários 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rith-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
